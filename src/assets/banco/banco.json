@@ -1,0 +1,14 @@
+{
+  "fotos": [
+    {
+      "img": "https://premiojovem.com.br/wp-content/uploads/2021/06/187128557_336235267860531_1809188279707150517_n.jpg",
+      "titulo": "BTS",
+      "id": 1
+    },
+    {
+      "img": "http://entretetizei.com.br/wp-content/uploads/2022/05/unnamed-14-scaled.jpg",
+      "titulo": "GOT7",
+      "id": 2
+    }
+  ]
+}
